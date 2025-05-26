@@ -1,6 +1,5 @@
 # Dria-Node
 
-How to run and Setup Dria Node
 
 ![alt text](https://github.com/Sorosjenaka/Dria-Node/blob/main/png?raw=true)
 
