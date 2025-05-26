@@ -53,6 +53,7 @@ dkn-compute-launcher start
 ```
 screen -r dria
 ```
+![alt text](?raw=true)
 - Go to website dria : https://dria.co/edge-ai
 - Login with your wallet
 - Klik my node
