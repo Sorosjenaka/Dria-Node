@@ -53,11 +53,13 @@ dkn-compute-launcher start
 ```
 screen -r dria
 ```
-![alt text](?raw=true)
+![alt text](https://github.com/Sorosjenaka/Dria-Node/blob/main/Logs?raw=true)
 - Go to website dria : https://dria.co/edge-ai
 - Login with your wallet
 - Klik my node
-- Done 
+
+  ![alt text](https://github.com/Sorosjenaka/Dria-Node/blob/main/Dashboard%20Dria?raw=true)
+- You will see like this after run
 
 
 
