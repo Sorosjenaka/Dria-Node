@@ -1,15 +1,15 @@
 # Dria-Node
 
 
-![alt text](https://github.com/Sorosjenaka/Dria-Node/blob/main/png?raw=true)
+
 
 Please follow me in X : https://x.com/0xsoros
 Thanks you for support me
 
 Hardware Minumum Specific 
-- CPU: 2–4 core
-- RAM: 4–8 GB
-- Storage: Minimal 50 GB - 100 GB SSD
+- CPU: 4 core
+- RAM: 8 GB
+- Storage: Minimum 100 GB SSD
 
 
 ## Step 1 Update and Upgrade
