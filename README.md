@@ -1,5 +1,8 @@
 # Dria-Node
-How to run and Dria Node setup
+
+How to run and Setup Dria Node
+
+![alt text](https://github.com/Sorosjenaka/Dria-Node/blob/main/png?raw=true)
 
 Please follow me in X : https://x.com/0xsoros
 Thanks you for support me
