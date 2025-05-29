@@ -17,7 +17,7 @@ Hardware Minumum Specific
  sudo apt-get update && sudo apt-get upgrade -y
  sudo apt install git -y
 ```
-## Step 2 Git clone and copy this script
+## Step 2 Download the script
 ```
 git clone https://github.com/CodeDialect/Dria
 cd Dria
