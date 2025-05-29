@@ -21,10 +21,10 @@ Hardware Minumum Specific
 ```
 git clone https://github.com/CodeDialect/Dria
 cd Dria-Node
+chmod +x setup_dria.sh
 ```
 ## Run Script
 ```
-chmod +x setup_dria.sh
 ./setup.sh
 ```
 ## Step 3 Install Dria Laucher
