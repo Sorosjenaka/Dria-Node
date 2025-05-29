@@ -18,8 +18,11 @@ sudo apt-get update && sudo apt-get upgrade -y
 ```
 ## Step 2 Git clone and copy this script
 ```
-git clone https://github.com/CodeDialect/Dria
-cd Dria
+git clone https://github.com/Sorosjenaka/Dria-Node.git
+cd Dria-Node
+```
+## Run Script
+```
 chmod +x setup_dria.sh
 ./setup_dria.sh
 ```
