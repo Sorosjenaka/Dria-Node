@@ -24,7 +24,7 @@ cd Dria-Node
 ## Run Script
 ```
 chmod +x setup_dria.sh
-./setup_dria.sh
+./setup.sh
 ```
 ## Step 3 Install Dria Laucher
 ```
