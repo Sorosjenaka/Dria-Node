@@ -19,7 +19,7 @@ Hardware Minumum Specific
 ```
 ## Step 2 Git clone and copy this script
 ```
-git clone https://github.com/CodeDialect/Dria
+git clone https://github.com/Sorosjenaka/Dria-Node.git
 cd Dria
 chmod +x setup_dria.sh
 ```
