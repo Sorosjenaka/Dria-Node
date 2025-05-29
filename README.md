@@ -12,9 +12,10 @@ Hardware Minumum Specific
 - Storage: Minimum 100 GB SSD
 
 
-## Step 1 Update and Upgrade
+## Step 1 Install Dependencies
 ```
-sudo apt-get update && sudo apt-get upgrade -y
+ sudo apt-get update && sudo apt-get upgrade -y
+ sudo apt install git -y
 ```
 ## Step 2 Git clone and copy this script
 ```
